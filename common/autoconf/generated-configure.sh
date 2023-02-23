@@ -4994,15 +4994,7 @@ VS_TOOLSET_SUPPORTED_2019=false
 #CUSTOM_AUTOCONF_INCLUDE
 
 # Do not change or remove the following line, it is needed for consistency checks:
-<<<<<<< HEAD
-<<<<<<< HEAD
-DATE_WHEN_GENERATED=1673650816
-=======
-DATE_WHEN_GENERATED=1670219878
->>>>>>> origin/master
-=======
-DATE_WHEN_GENERATED=1676455289
->>>>>>> origin/release
+DATE_WHEN_GENERATED=1677150961
 
 ###############################################################################
 #
