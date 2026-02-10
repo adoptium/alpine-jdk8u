@@ -5024,7 +5024,7 @@ VS_TOOLSET_SUPPORTED_2022=true
 #CUSTOM_AUTOCONF_INCLUDE
 
 # Do not change or remove the following line, it is needed for consistency checks:
-DATE_WHEN_GENERATED=1770716700
+DATE_WHEN_GENERATED=1770716787
 
 ###############################################################################
 #
